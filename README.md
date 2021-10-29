@@ -1,26 +1,25 @@
 <h1 align="center">Product multinomial model</h1>
 
 ### Project Objective
-This repository is a compilation of the R codes and the final submission of my first coursework doing MATH20811 Practical Statistics. The whole report focuses on correlation coefficients, mainly Pearson's and Spearman's as well as an introduction consisting of descriptive statistics. The main body of the report talks about hypothesis testing on the correlation coefficient using Fisher's Z-transform statistic. The distribution of said statistic is then further explored through data simulation in R.
+This project analyses the data provided under the multinomial distribution. Through this, hypothesis tests are done on the true proportions to see if all of them are equal to each other and on the true standardised residuals being zero. The test statistic is then sampled to confirm the assumption that it follows a chi-squared distribution. Complementing the tests, a further look on the confidence intervals wraps up the report.
+
 #### -- Project Status: [Completed]
 
 ### Methods used
-- regression
+- multinomial model
 - hypotheses testing
-- goodness-of-fit test
 
 ### Technologies
 - LateX
 - R
 
 ## Project Description
-The  data used for this project can be obtained from [white wine](https://github.com/fahimahghazali/Basic-statistics-and-correlations/blob/main/white_wine.csv)
+The  data used for this project can be obtained in the write up.
 
-The final report is writen using LateX and can be read [here](https://github.com/fahimahghazali/Basic-statistics-and-correlations/blob/main/MATH20811_CW1.pdf).
+The final report is writen using LateX and can be read [here](https://github.com/fahimahghazali/Product-multinomial-model/blob/main/cw2.pdf).
 
 ## Needs of this project
 
-- descriptive statistics
 - statistical modeling
 - writeup
 
